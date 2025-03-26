@@ -1,6 +1,6 @@
-# Code Guardian - Online IDE with Security & Optimization
+# DEV-IDE - Online IDE with Security & Optimization
 
-Code Guardian is a web-based IDE designed to enhance software development by providing real-time vulnerability detection, code optimization, and clarity suggestions. It also allows users to generate reports in PDF format.
+DEV-IDE is a web-based IDE designed to enhance software development by providing real-time vulnerability detection, code optimization, and clarity suggestions. It also allows users to generate reports in PDF format.
 
 ## Features
 - **Online IDE**: Write and edit code in a browser-based environment.
